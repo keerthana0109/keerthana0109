@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20Keerthana&fontSize=90" />
+</p>
 <h1 align="center">Hi 👋, I'm Keerthana</h1>
 <h3 align="center">A passionate frontend developer(UI/UX) from India</h3>
 
