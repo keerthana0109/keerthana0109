@@ -57,4 +57,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthana0109&show_icons=true&locale=en" alt="keerthana0109" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana0109&" alt="keerthana0109" /></p>
+<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana0109&" alt="keerthana0109" />
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+</p>
