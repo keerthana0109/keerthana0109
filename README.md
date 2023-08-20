@@ -38,7 +38,7 @@
 
 - 👨‍💻 All of my projects are available at [https://keerthi-portfolio.netlify.app/](https://keerthi-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Flutter, Neural Network**
+- 💬 Ask me about **python**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10nbVt_S33U3D1IwqUWS76_XSTYBoLRhR/view](https://drive.google.com/file/d/10nbVt_S33U3D1IwqUWS76_XSTYBoLRhR/view)
 
