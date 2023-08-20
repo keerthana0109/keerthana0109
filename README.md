@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on [Price comparison app](https://github.com/keerthana0109/Price-comparison-app)
 
-- 🌱 I’m currently learning **Neural Network, NLP, Machine Learning, Android Development, Web design, etc...**
+- 🌱 I’m currently learning **Web design, etc...**
 
 - 👨‍💻 All of my projects are available at [https://keerthi-portfolio.netlify.app/](https://keerthi-portfolio.netlify.app/)
 
